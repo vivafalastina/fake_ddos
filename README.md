@@ -12,7 +12,7 @@ The easiest way is by getting the .exe on the releases page. You can also build 
 3. Let the magic begin
 
 ## Upcoming changes
-- More Words
+- More Words(Suggestions welcome!)
 - Better support for linux and mac
 - Addition of random IP addresses
 - More fake hacking options
